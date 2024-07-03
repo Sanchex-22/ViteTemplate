@@ -1,2 +1,2 @@
-# Agroymas React ts + Vite (Template)
+# React ts + Vite (Template)
 :)# ViteTemplate
